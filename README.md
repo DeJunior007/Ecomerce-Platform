@@ -27,14 +27,14 @@ Siga os passos abaixo para rodar o projeto localmente:
    ```bash
    git clone https://github.com/seu-usuario/ecommerce-platform.git
 
-2. **nstale as dependências**:
+2. **instale as dependências**:
     cd ecommerce-platform
     npm install
-    # ou
+    #### ou
     yarn install
 
 3. **Inicie o servidor de desenvolvimento**:
 
     npm run dev
-    # ou
+    #### ou
     yarn dev
