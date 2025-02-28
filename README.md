@@ -1,25 +1,40 @@
-# Free eCommerce Template for Next.js - NextMerce
+# Ecommerce Platform
 
-The free Next.js eCommerce template is a lite version of the NextMerce Next.js eCommerce boilerplate, designed to streamline the launch and management of your online store.
+**Desenvolvido por Deilton Pedro e Arthur Bertossi**
 
-![NextMerce](https://github.com/user-attachments/assets/57155689-a756-4222-8af7-134e556acae2)
+A **Ecommerce Platform** é uma solução completa para criar e gerenciar sua loja online de eletrônicos e acessórios. Desenvolvida com base no **Next.js** e estilizada com **Tailwind CSS**, esta plataforma oferece uma experiência moderna e responsiva para os usuários.
 
+## Tecnologias Utilizadas
 
-While NextMerce Pro features advanced functionalities, seamless integration, and customizable options, providing all the essential tools needed to build and expand your business, the lite version offers a basic Next.js template specifically crafted for eCommerce websites. Both versions ensure superior performance and flexibility, all powered by Next.js.
+- **Next.js**: Framework React para renderização do lado do servidor (SSR) e geração de sites estáticos (SSG).
+- **Tailwind CSS**: Framework CSS utilitário para estilização rápida e responsiva.
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Outras dependências**: (Liste aqui outras bibliotecas ou ferramentas que você utilizou, como Axios, Formik, Yup, etc.)
 
-### NextMerce Free VS NextMerce Pro
+## Funcionalidades
 
-| ✨ Features                         | 🎁 NextMerce Free                 | 🔥 NextMerce Pro                        |
-|----------------------------------|--------------------------------|--------------------------------------|
-| Next.js Pages                    | Static                         | Dynamic Boilerplate Template         |
-| Components                       | Limited                        | All According to Demo                |
-| eCommerce Functionality          | Included                       | Included                             |
-| Integrations (DB, Auth, etc.)    | Not Included                   | Included                             |
-| Community Support                | Included                       | Included                             |
-| Premium Email Support            | Not Included                   | Included                             |
-| Lifetime Free Updates            | Included                       | Included                             |
+- **Catálogo de Produtos**: Exibição de produtos com detalhes, imagens e preços.
+- **Carrinho de Compras**: Adicionar, remover e gerenciar itens no carrinho.
+- **Checkout**: Fluxo de finalização de compra seguro e intuitivo.
+- **Responsividade**: Design adaptável para diferentes dispositivos (desktop, tablet, mobile).
+- **(Adicione mais funcionalidades conforme necessário)**
 
+## Como Executar o Projeto
 
-#### [🚀 Live Demo](https://demo.nextmerce.com/)
+Siga os passos abaixo para rodar o projeto localmente:
 
-#### [🌐 Visit Website](https://nextmerce.com/)
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/ecommerce-platform.git
+
+2. **nstale as dependências**:
+    cd ecommerce-platform
+    npm install
+    # ou
+    yarn install
+
+3. **Inicie o servidor de desenvolvimento**:
+
+    npm run dev
+    # ou
+    yarn dev
